@@ -79,7 +79,7 @@ img{
     background-position: center top;
 }
 #home{
-    background-image: url(images/PALMhome.png);
+    background-image: url(https://github.com/meme-ron/PALMcopy/blob/main/images/PALMhome.png?raw=true);
     min-height: 100vh;
 }
 #home .page-title{
@@ -88,7 +88,7 @@ img{
 /*News
 -----------*/
 #news{
-    background-image: url(images/sandwich-news-2.png);
+    background-image: url(https://github.com/meme-ron/PALMcopy/blob/main/images/sandwich-news-2.png?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -294,7 +294,7 @@ aside p{
 /* MENU
 ------------- */
 #menu {
-    background-image: url(images/MENUhome.png);
+    background-image: url(https://github.com/meme-ron/PALMcopy/blob/main/images/MENUhome.png?raw=true);
     min-height: 100vh;
 
 }
@@ -323,7 +323,7 @@ aside p{
 /* CONTACT
 ------------- */
 #contact {
-    background-image: url(images/contact-top-img.jpg);
+    background-image: url(https://github.com/meme-ron/PALMcopy/blob/main/images/contact-top-img.jpg?raw=true);
     min-height: 100vh;
 }
 
